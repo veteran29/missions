@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="AFP">
+    <Package name="Scripts">
+        <Key ID="STR_AFP_Scripts_DisplayName">
+            <Original>Mumble in the Jungle</Original>
+        </Key>
+
+        <!-- MISSION -->
+        <Key ID="STR_AFP_Scripts_Mission_Author">
+            <English>veteran29</English>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_Title">
+            <Original>Mumble in the Jungle</Original>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_Description">
+            <Polish>5 Dywizja Piechoty została wysłana na misję przetarcia szlaku rzecznego, likwidacji zapasów NVA oraz utworzenia wysuniętej placówki w zachodnim Laosie.</Polish>
+        </Key>
+        <Key ID="STR_AFP_Scripts_Mission_ShortDescription">
+            <Polish>5 Dywizja Piechoty została wysłana na misję przetarcia szlaku rzecznego, likwidacji zapasów NVA oraz utworzenia wysuniętej placówki w zachodnim Laosie.</Polish>
+        </Key>
+    </Package>
+</Project>
+
+<!--
+    Legacy stuff
+-->
+
+<Project name="ArmaForces">
+    <Package name="Preset">
+        <!-- COMMON -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_Close">
+            <Original>Close</Original>
+            <English>Close</English>
+            <Polish>Zamknij</Polish>
+        </Key>
+        <!-- GROUP RENAME -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_GroupRename_Rename">
+            <Original>Rename</Original>
+            <English>Rename</English>
+            <Polish>Zmień nazwę</Polish>
+        </Key>
+        <!-- VIEW DISTANCE -->
+        <Key ID="STR_ArmaForces_Preset_Dialog_ViewDistance_Custom">
+            <Original>Custom</Original>
+            <English>Custom</English>
+            <Polish>Ustaw własną</Polish>
+        </Key>
+    </Package>
+</Project>
