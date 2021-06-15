@@ -75,7 +75,7 @@ class SearchAndDestroy {
 
 	onSuccessEvents[] = {"SearchAndDestroyDone"};
 
-	title = "Znajdźcie i zniszczcie zapasy NVA";
+	title = "Znajdźcie i zniszczcie zapasy amunicji NVA";
 	description = "";
 	icon = "destroy";
 };
@@ -93,7 +93,7 @@ class Tunnel {
 	onSuccessEvents[] = {"TunnelDone"};
 
 	title = "Tunel";
-	description = "NVA wykorzystuje tunele to przemieszczania się oraz składowania w nich zapasów. Przeszukajcie je i zniszczcie każde zapasy które tam znajdziecie.";
+	description = "NVA wykorzystuje tunele to przemieszczania się oraz składowania w nich amunicji. Przeszukajcie je i zniszczcie każde zapasy amunicji które tam znajdziecie.";
 	icon = "search";
 };
 class Defend {
